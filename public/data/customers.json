@@ -1,0 +1,291 @@
+[
+
+  {
+
+    "customerId": 1,
+
+    "name": "soundarya",
+
+    "transactions": [
+
+      { "transactionId": 1001, "amount": 120, "date": "2025-08-12" },
+
+      { "transactionId": 1002, "amount": 99, "date": "2025-07-10" }
+
+
+    ]
+
+  },
+
+  {
+
+    "customerId": 2,
+
+    "name": "Preethi",
+
+    "transactions": [
+
+      { "transactionId": 1004, "amount": 102, "date": "2025-08-05" },
+
+      { "transactionId": 1005, "amount": 55, "date": "2025-07-05" },
+
+      { "transactionId": 1006, "amount": 200, "date": "2025-06-30" }
+
+    ]
+
+  },
+
+  {
+
+    "customerId": 3,
+
+    "name": "Anusha",
+
+    "transactions": [
+
+      { "transactionId": 1007, "amount": 150, "date": "2025-08-06" },
+
+      { "transactionId": 1008, "amount": 80, "date": "2025-07-22" }
+
+
+    ]
+
+  },
+
+  {
+
+    "customerId": 4,
+
+    "name": "MahaLakshmi",
+
+    "transactions": [
+
+      { "transactionId": 1010, "amount": 110, "date": "2025-08-18" },
+
+      { "transactionId": 1011, "amount": 95, "date": "2025-07-24" },
+
+      { "transactionId": 1012, "amount": 65, "date": "2025-06-30" }
+
+    ]
+
+  },
+
+  {
+
+    "customerId": 5,
+
+    "name": "Johnson",
+
+    "transactions": [
+
+      { "transactionId": 1013, "amount": 130, "date": "2025-08-10" },
+
+      { "transactionId": 1014, "amount": 60, "date": "2025-07-12" },
+
+      { "transactionId": 1015, "amount": 90, "date": "2025-06-18" }
+
+    ]
+
+  },
+
+  {
+
+    "customerId": 6,
+
+    "name": "Ling Zhang",
+
+    "transactions": [
+
+    
+
+      { "transactionId": 1017, "amount": 85, "date": "2025-07-26" },
+
+      { "transactionId": 1018, "amount": 100, "date": "2025-06-10" }
+
+    ]
+
+  },
+
+  {
+
+    "customerId": 7,
+
+    "name": "Arun",
+
+    "transactions": [
+
+      { "transactionId": 1019, "amount": 140, "date": "2025-08-20" },
+
+      { "transactionId": 1020, "amount": 60, "date": "2025-07-08" },
+
+      { "transactionId": 1021, "amount": 77, "date": "2025-06-29" }
+
+    ]
+
+  },
+
+  {
+
+    "customerId": 8,
+
+    "name": "Mike ",
+
+    "transactions": [
+
+      { "transactionId": 1022, "amount": 155, "date": "2025-08-17" },
+
+      { "transactionId": 1023, "amount": 95, "date": "2025-07-14" },
+
+      { "transactionId": 1024, "amount": 80, "date": "2025-06-21" }
+
+    ]
+
+  },
+
+  {
+
+    "customerId": 9,
+
+    "name": "Sara Kim",
+
+    "transactions": [
+
+      { "transactionId": 1025, "amount": 117, "date": "2025-08-07" },
+
+      { "transactionId": 1026, "amount": 99, "date": "2025-07-11" },
+
+      { "transactionId": 1027, "amount": 51, "date": "2025-06-16" }
+
+    ]
+
+  },
+
+  {
+
+    "customerId": 10,
+
+    "name": "Amit Patel",
+
+    "transactions": [
+
+      { "transactionId": 1028, "amount": 180, "date": "2025-08-21" },
+
+      { "transactionId": 1029, "amount": 77, "date": "2025-07-03" },
+
+      { "transactionId": 1030, "amount": 99, "date": "2025-06-11" }
+
+    ]
+
+  },
+
+  {
+
+    "customerId": 11,
+
+    "name": "Linda Green",
+
+    "transactions": [
+
+      { "transactionId": 1031, "amount": 166, "date": "2025-08-09" },
+
+      { "transactionId": 1032, "amount": 100, "date": "2025-07-27" },
+
+      { "transactionId": 1033, "amount": 60, "date": "2025-06-07" }
+
+    ]
+
+  },
+
+  {
+
+    "customerId": 12,
+
+    "name": "David Baker",
+
+    "transactions": [
+
+      { "transactionId": 1034, "amount": 135, "date": "2025-08-23" },
+
+      { "transactionId": 1035, "amount": 92, "date": "2025-07-19" },
+
+      { "transactionId": 1036, "amount": 80, "date": "2025-06-13" }
+
+    ]
+
+  },
+
+  {
+
+    "customerId": 13,
+
+    "name": "Priya Singh",
+
+    "transactions": [
+
+      { "transactionId": 1037, "amount": 122, "date": "2025-08-30" },
+
+      { "transactionId": 1038, "amount": 88, "date": "2025-07-06" },
+
+      { "transactionId": 1039, "amount": 90, "date": "2025-06-17" }
+
+    ]
+
+  },
+
+  {
+
+    "customerId": 14,
+
+    "name": "Tom White",
+
+    "transactions": [
+
+      { "transactionId": 1040, "amount": 145, "date": "2025-08-25" },
+
+      { "transactionId": 1041, "amount": 99, "date": "2025-07-29" },
+
+      { "transactionId": 1042, "amount": 52, "date": "2025-06-25" }
+
+    ]
+
+  },
+
+  {
+
+    "customerId": 15,
+
+    "name": "Monica Cruz",
+
+    "transactions": [
+
+      { "transactionId": 1043, "amount": 160, "date": "2025-08-12" },
+
+      { "transactionId": 1044, "amount": 91, "date": "2025-07-10" },
+
+      { "transactionId": 1045, "amount": 70, "date": "2025-06-20" }
+
+    ]
+
+  },
+
+  {
+
+    "customerId": 16,
+
+    "name": "Ravi Kumar",
+
+    "transactions": [
+
+      { "transactionId": 1046, "amount": 110, "date": "2025-08-02" },
+
+      { "transactionId": 1047, "amount": 60, "date": "2025-07-13" },
+
+      { "transactionId": 1048, "amount": 98, "date": "2025-06-24" }
+
+    ]
+
+  }
+
+]
+
+ 
